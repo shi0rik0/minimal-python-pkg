@@ -18,7 +18,7 @@ This directory contains the source code of the package. It is a convention to pu
 
 ## Development
 
-To install the package in development mode, run:
+To install the package in a development environment, run:
 
 ```bash
 pip install -e .
